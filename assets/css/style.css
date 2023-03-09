@@ -98,6 +98,24 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
   text-decoration: none;
 }
+.mybutton1{
+  border: none;
+  outline: none;
+  text-align: center;
+  font-size: 15px;
+  padding: 10px 22px;
+  background-color: rgb(236, 14, 32);
+  color: rgb(253, 253, 253);
+  cursor: pointer;
+  width: auto;
+  height: auto;
+  border-radius: 5px;
+  }
+  .mycenter{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  }
 
 #header .profile .social-links a {
   font-size: 18px;
